@@ -1,0 +1,17 @@
+C:\Users\luann\source\repos\AppOrderWorker\AppOrderWorker\bin\Debug\netcoreapp3.1\AppOrderWorker.exe
+C:\Users\luann\source\repos\AppOrderWorker\AppOrderWorker\bin\Debug\netcoreapp3.1\AppOrderWorker.deps.json
+C:\Users\luann\source\repos\AppOrderWorker\AppOrderWorker\bin\Debug\netcoreapp3.1\AppOrderWorker.runtimeconfig.json
+C:\Users\luann\source\repos\AppOrderWorker\AppOrderWorker\bin\Debug\netcoreapp3.1\AppOrderWorker.runtimeconfig.dev.json
+C:\Users\luann\source\repos\AppOrderWorker\AppOrderWorker\bin\Debug\netcoreapp3.1\AppOrderWorker.dll
+C:\Users\luann\source\repos\AppOrderWorker\AppOrderWorker\bin\Debug\netcoreapp3.1\AppOrderWorker.pdb
+C:\Users\luann\source\repos\AppOrderWorker\AppOrderWorker\obj\Debug\netcoreapp3.1\AppOrderWorker.csproj.AssemblyReference.cache
+C:\Users\luann\source\repos\AppOrderWorker\AppOrderWorker\obj\Debug\netcoreapp3.1\AppOrderWorker.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luann\source\repos\AppOrderWorker\AppOrderWorker\obj\Debug\netcoreapp3.1\AppOrderWorker.AssemblyInfoInputs.cache
+C:\Users\luann\source\repos\AppOrderWorker\AppOrderWorker\obj\Debug\netcoreapp3.1\AppOrderWorker.AssemblyInfo.cs
+C:\Users\luann\source\repos\AppOrderWorker\AppOrderWorker\obj\Debug\netcoreapp3.1\AppOrderWorker.csproj.CoreCompileInputs.cache
+C:\Users\luann\source\repos\AppOrderWorker\AppOrderWorker\obj\Debug\netcoreapp3.1\AppOrderWorker.dll
+C:\Users\luann\source\repos\AppOrderWorker\AppOrderWorker\obj\Debug\netcoreapp3.1\AppOrderWorker.pdb
+C:\Users\luann\source\repos\AppOrderWorker\AppOrderWorker\obj\Debug\netcoreapp3.1\AppOrderWorker.genruntimeconfig.cache
+C:\Users\luann\source\repos\AppOrderWorker\AppOrderWorker\bin\Debug\netcoreapp3.1\RabbitMQ.Client.dll
+C:\Users\luann\source\repos\AppOrderWorker\AppOrderWorker\bin\Debug\netcoreapp3.1\System.Threading.Channels.dll
+C:\Users\luann\source\repos\AppOrderWorker\AppOrderWorker\obj\Debug\netcoreapp3.1\AppOrderWorker.csproj.CopyComplete
